@@ -1,8 +1,8 @@
 # JavaScript
 
 <p align="center">
-<img src="https://github.com/elladarte/DataBase_NoSQL/blob/master/NoSQL.jpg"/> </br>
-<img src="https://img.shields.io/static/v1?label=Status&message=Em_andamento&color=gray&style=for-the-badge"/>
+<img src="https://github.com/elladarte/JavaScript/blob/master/jsjsjs.png"/> </br>
+<img src="https://img.shields.io/static/v1?label=Status&message=Em_andamento&color=yellow&style=for-the-badge"/>
 </p>
 
 ## Descrição
